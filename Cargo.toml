@@ -1,0 +1,10 @@
+[package]
+name = "Rust_cpp_cleaner"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "Rust_cpp_cleaner"
+path = "main.rs"
